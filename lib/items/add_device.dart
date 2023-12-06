@@ -186,7 +186,7 @@ class _StationItemState extends State<StationItem> {
     Device addDevice = Device(
         id: newIdDevice,
         name: "",
-        effect: 0,
+        effect: 15,
         room: "",
         status: 0,
         type: typyDevice,
