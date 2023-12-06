@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Users/delam/OneDrive/Documents/GitHub/DoAn_Nhung/DoAn/app_smart_house/linux",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
